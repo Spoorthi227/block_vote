@@ -11,6 +11,7 @@ A decentralized voting application using **React**, **Solidity**, and **Web3.js*
   - Add candidates
 - 🗳️ **User Panel** to:
   - Connect MetaMask
+  - Iris scan is used to verify the voter.
   - Vote once per user
 - 🔐 Voting data stored on **Ethereum blockchain**
 - 🌐 React frontend using **Web3.js**
